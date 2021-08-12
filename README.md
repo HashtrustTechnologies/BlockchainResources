@@ -1,4 +1,4 @@
-# Blockchain Material
+# Free Resources To Learn Blockchain Technology
 
 > Table of Content
 
